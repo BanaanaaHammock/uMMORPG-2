@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 644f8f76e6ad54018a17405aa08191ee, type: 3}
+  m_Name: Find the Cleaver
+  m_EditorClassIdentifier: 
+  toolTip: "<b>{NAME}</b>\nUnarm the Skeletons by gathering\ntheir cleavers.\n\nTasks:\n
+    \   * Gather {GATHERNAME}: {GATHERED}/{GATHERAMOUNT}\n\nRewards:\n* {REWARDGOLD}
+    Gold\n* {REWARDEXPERIENCE} Experience\n\n{STATUS}"
+  requiredLevel: 2
+  predecessor: {fileID: 11400000, guid: 1ea6fa225f25c4bb7a3dd4166675a80b, type: 2}
+  rewardGold: 100
+  rewardExperience: 20
+  rewardItem: {fileID: 0}
+  killTarget: {fileID: 0}
+  killAmount: 0
+  gatherItem: {fileID: 11400000, guid: d6a203346a70840bd9b874dbca3c0274, type: 2}
+  gatherAmount: 3

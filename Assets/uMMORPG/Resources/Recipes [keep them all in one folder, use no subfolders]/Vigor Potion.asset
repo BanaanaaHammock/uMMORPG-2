@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e56c3572016bd405fbbd6a92834f581e, type: 3}
+  m_Name: Vigor Potion
+  m_EditorClassIdentifier: 
+  ingredients:
+  - {fileID: 11400000, guid: 957993ab40ff1a84686b0e5697670f68, type: 2}
+  - {fileID: 11400000, guid: a31f31354d1384939b3e8f6dab985c6f, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  result: {fileID: 11400000, guid: c32861daa71724810b495ed2ce5e5083, type: 2}

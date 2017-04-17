@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: e5c7fe92e04204fafb48f57379fde633
+timeCreated: 1475525181
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Ubuntu
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 406992315ba8f4236b4fff66d45b34d4, type: 3}
+  - {fileID: 12800000, guid: b5760d043804544bfb59b26b6837ea11, type: 3}
+  - {fileID: 12800000, guid: 489680549a04d4a02b9de88330cf8190, type: 3}
+  - {fileID: 12800000, guid: 0bc4b5b49aea24776a70d05967e01f44, type: 3}
+  - {fileID: 12800000, guid: 4f828b558f3674f3aafe2eba38656ec0, type: 3}
+  - {fileID: 12800000, guid: cfe094c5296c746dd96f7515be4410db, type: 3}
+  - {fileID: 12800000, guid: 0c99bf8c83a704c29b44678fb2243dc3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
